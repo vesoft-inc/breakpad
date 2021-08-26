@@ -46,6 +46,7 @@
 #include <vector>
 
 #include "common/linux/memory_mapped_file.h"
+#include "common/linux/user.h"
 #include "common/minidump_type_helper.h"
 #include "common/path_helper.h"
 #include "common/scoped_ptr.h"
